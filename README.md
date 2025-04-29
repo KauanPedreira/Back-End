@@ -4,17 +4,12 @@
 
 Este repositório contém todas as atividades realizadas na disciplina de Backend da faculdade. Através deste, você poderá acompanhar o progresso e as implementações realizadas durante o curso.
 
-## 📚 Tópicos Abordados
+## 👨‍🎓 Aluno
 
-As atividades abordam diversos conceitos essenciais para o desenvolvimento backend, como:
-
-- Arquitetura de software
-- APIs RESTful
-- Banco de dados relacionais e não relacionais
-- Segurança de aplicações
-- Autenticação e autorização
-- Frameworks e bibliotecas de backend
-- Testes automatizados
+NOME                               |Contato
+-----------------------------------|----------------------------------------
+Kauan Santos Pedreira              |-> https://linktr.ee/kauanpedreira
+----------------------------------------------------------------------------
 
 ## 📝 Atividades Realizadas
 
@@ -38,13 +33,10 @@ As atividades abordam diversos conceitos essenciais para o desenvolvimento backe
    - **Descrição**: Criação de testes automatizados utilizando Jest e Supertest.
    - **Objetivo**: Garantir que as rotas da API estejam funcionando corretamente e que as funcionalidades da aplicação sejam bem testadas.
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas até o momento
 
-- **Node.js**: Ambiente de execução para JavaScript.
-- **Express.js**: Framework para criar APIs RESTful.
-- **MySQL**: Banco de dados relacional.
-- **MongoDB**: Banco de dados não relacional.
-- **JWT (JSON Web Token)**: Biblioteca para autenticação e autorização.
-- **Jest**: Framework de testes.
-- **Supertest**: Biblioteca para realizar testes em APIs.
+- **HTML**:
+- **CSS**:
+- **JavaScript**:
+
 
