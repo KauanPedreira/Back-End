@@ -28,8 +28,8 @@ Kauan Santos Pedreira              |-> https://linktr.ee/kauanpedreira
 
 ## 🛠 Tecnologias Utilizadas até o momento
 
-- **HTML**:
-- **CSS**:
-- **JavaScript**:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 
