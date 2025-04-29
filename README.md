@@ -48,8 +48,3 @@ As atividades abordam diversos conceitos essenciais para o desenvolvimento backe
 - **Jest**: Framework de testes.
 - **Supertest**: Biblioteca para realizar testes em APIs.
 
-## 🚨 Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/backend-atividade.git
