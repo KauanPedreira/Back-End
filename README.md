@@ -16,17 +16,18 @@ Kauan Santos Pedreira              |-> https://linktr.ee/kauanpedreira
 ### 1. **Atividade 1: Criação de Formulário**
    - **Descrição**: Desenvolvimento de um formulário HTML e Css.
    - **Objetivo**: Realizar uma revisão dos assuntos de FrontEnd.
-   - **Link**:
+   - **Link**: https://github.com/KauanPedreira/Back-End/tree/main/src/atividade01
 
 ### 2. **Atividade 2: Currículo**
    - **Descrição**: Criação de uma aplicação frontend que exibe dados do meu currículo e outro que utilize bootstrap.
    - **Objetivo**: Refinar os conhecimentos de FrontEnd.
-   - **Link Currículo**: 
-   - **Link Bootstrap**: 
+   - **Link Currículo**: https://github.com/KauanPedreira/Back-End/tree/main/src/atividade02/curriculo
+   - **Link Bootstrap**: https://github.com/KauanPedreira/Back-End/tree/main/src/atividade02/bootstrap
+   
 ### 3. **Atividade 3: Lista de JavaScript**
    - **Descrição**: Questões de JavaScript para revisar.
    - **Objetivo**: Realizar uma revisão de JavaScript.
-   - **Link**:
+   - **Link**:https://github.com/KauanPedreira/Back-End/tree/main/src/atividade03
 
 
 ## 🛠 Tecnologias Utilizadas até o momento
