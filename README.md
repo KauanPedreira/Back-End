@@ -11,6 +11,9 @@ NOME                               |Contato
 Kauan Santos Pedreira              |-> https://linktr.ee/kauanpedreira
 ----------------------------------------------------------------------------
 
+###. **Site menu com todos as atividades**
+   - **Link**: https://kauanpedreira.github.io/Back-End/
+
 ## 📝 Atividades Realizadas
 
 ### 1. **Atividade 1: Criação de Formulário**
