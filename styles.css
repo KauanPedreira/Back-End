@@ -1,0 +1,150 @@
+/* styles.css (Visual Ultra Profissional) */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Montserrat:wght@400;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: url('https://www.transparenttextures.com/patterns/stardust.png'), linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  background-attachment: fixed;
+  color: #f0f0f0;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+header.hero {
+  background: linear-gradient(120deg, rgba(0,0,0,0.6), rgba(50,50,100,0.8)), url('https://images.unsplash.com/photo-1551033545-561732d1e306?auto=format&fit=crop&w=1500&q=80') center/cover;
+  padding: 100px 20px;
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+
+header.hero h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 4rem;
+  margin-bottom: 20px;
+  position: relative;
+  text-shadow: 0 0 20px rgba(255,255,255,0.2);
+}
+
+header.hero p {
+  font-size: 1.4rem;
+  opacity: 0.95;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.container {
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2.8rem;
+  margin-bottom: 30px;
+  border-left: 5px solid #e91e63;
+  padding-left: 15px;
+  text-shadow: 0 0 10px rgba(233, 30, 99, 0.2);
+}
+
+.grid {
+  display: grid;
+  gap: 25px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  transition: all 0.4s ease;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(233, 30, 99, 0.1), transparent);
+  transform: rotate(45deg);
+  z-index: 0;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+.card:hover {
+  transform: translateY(-10px) scale(1.03);
+  box-shadow: 0 0 40px rgba(233, 30, 99, 0.3);
+}
+
+.card i {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  color: #e91e63;
+}
+
+.btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #e91e63, #3f51b5);
+  color: #fff;
+  padding: 14px 26px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  box-shadow: 0 0 20px rgba(233, 30, 99, 0.4);
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: linear-gradient(135deg, #ff4081, #5c6bc0);
+  box-shadow: 0 0 30px rgba(233, 30, 99, 0.6);
+  transform: scale(1.08);
+}
+
+footer {
+  text-align: center;
+  padding: 40px;
+  background-color: #111;
+  color: #bbb;
+  font-size: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 100px;
+}
+
+section {
+  margin-bottom: 100px;
+}
+
+ul.grid li {
+  list-style: none;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  header.hero h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  .btn {
+    padding: 10px 18px;
+    font-size: 0.95rem;
+  }
+}
