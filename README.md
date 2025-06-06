@@ -35,7 +35,7 @@ Kauan Santos Pedreira              |-> https://linktr.ee/kauanpedreira
 ### 4. **Atividade De Reposição**
    - **Descrição**: Questões de JavaScript para revisar.
    - **Objetivo**: Realizar uma revisão de JavaScript.
-   - **Link**:https://github.com/KauanPedreira/Back-End/tree/main/src/atividade04
+   - **Link**:https://github.com/KauanPedreira/Back-End/tree/main/src/atividade4/reposicao.js
 
 
 ## 🛠 Tecnologias Utilizadas até o momento
